@@ -4,5 +4,3 @@
 
 This is a Django project created for practice and internship learning.
 
-
-
